@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "personal_image.png"
   name             : "Liyang Jiang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "I am Liyang Jiang, an undergraduate in Cryptography Science and Technology at Shandong University."
   location         : "Qingdao Shangdong China"
   employer         : "ShangDong University"
-  uri              :  https://hxhdhcjmet/LiyangJiang.github.io # URL
+  uri              :  https://github.com/hxhdhcjmet/LiyangJiang.github.io # URL
   email            : "202400460042@main.sdu.edu.cn" 
 
   # Academic websites
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
